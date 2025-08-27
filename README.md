@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
+
 - 🔭 I’m currently working on a [PhD in Engineering](https://www.researchgate.net/profile/Thomas-Aston) at the University of Edinburgh
 
 - 👨‍💻 All of my projects are available at [thomasaston.github.io](thomasaston.github.io)
